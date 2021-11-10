@@ -1,0 +1,71 @@
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 36px;
+  font-weight: normal;
+  margin-left: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+  }
+
+.directory {
+  background-color: lightblue;
+  text-align: center;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 0px 15px black;
+  border: 5px;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 45px;
+  width: 400px;
+}
+
+body {
+  background: azure;
+}
+
+.description {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  margin-left: 20px;
+}
+
+.ingredients {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  margin-left: 20px;
+}
+
+.steps {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  margin-left: 20px;
+}
+
+p.recipe {
+  padding: 5px;
+  font-size: 24px;
+}
